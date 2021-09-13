@@ -2,4 +2,4 @@
 
 ---
 
-with Node.js, Pug, Express, Websocket
+with Node.js, Pug, Express, Websocket IO
